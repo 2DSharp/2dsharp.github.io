@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Hello world!"
+date:   2018-03-28 00:17:20 +0530
+categories: jekyll update
+---	    
+# Welcome to Twodee's blog
+
+So, I thought I should start a blog, after failing quite a few times. I plan to keep this one permanent though. I decided to note down my experiences through this blog.
+
+So, I have to admit it: I have **Kesha - Praying** playing in my ears right now, and starting off with a blog is painful. Now this one's more of a test post. I am trying to get used to markdown, it's pretty neat. I am building this blog on [Jekyll][jekyll-web] on Github pages, and that did take me some time to set up. I was pretty sure I wasn't going to use something like Wordpress and I sure wasn't going to build a CMS of my own. I don't remember what stopped me the last time. I was confused with what theme to use, so I decided to use the default one. I realized I can tweak the default layouts, and that should work out pretty well. I am not sure if Jekyll can generate pages for me based on the current timestamp though, that would be very helpful.
+
+
+Alright, I am gonna try some code highlighting now. I am lazy, I am just going to copy some code from my last project.
+
+{% highlight java %}
+public void switchOn(ActionEvent event) {
+
+       switchBtn.setId("switchOff");
+       switchBtn.setOnAction(this::switchOff);
+       this.appLauncher.switchOn();
+}	
+{% endhighlight %}
+
+Ugh, the code makes now sense. But well, it works. I guess I should fix the font size, it's too big for my eyes. Guess this works neatly though. I might end up staying with it.
+
+Alright, Imma sleep now. Just tired for now reason. I am taking this week off. So, meh. Goodnight!
+
+_Dedipyaman_
+
+[jekyll-web]: https://jekyllrb.com
