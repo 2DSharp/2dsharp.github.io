@@ -25,7 +25,7 @@ author: Dedipyaman Das
 tagline: Eat, sleep, code, repeat
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
