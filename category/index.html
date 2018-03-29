@@ -1,0 +1,53 @@
+---
+layout: default
+permalink: /blog/category
+---
+
+<div class="home" >
+
+        <!--<img class="bigpic" style="" width="200" src="{{ "/assets/2d.jpg" | relative_url }}" >-->
+
+    <div class="post-index">
+
+{% for tag in site.categories %} 
+  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+  <ul class="post-list">
+    {% assign pages_list = tag[1] %}  
+    {% for post in pages_list %}
+      {% if post.title != null %}
+      {% if group == null or group == post.group %}
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <p style="font-size: 18px;">
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+					<span style="font-size: 12px; margin-left: 5px;" class="post-meta">{{ post.date | date: date_format }}</span>
+
+        </p>
+				{% endif %}
+      {% endif %}
+    {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
+  </ul>
+{% endfor %}
+</div>
+	<div class="category-box">
+			<div class="category-header">	
+			<b>Categories</b>
+				</div>
+					<ul class="category-list">
+						{% assign tags_list = site.categories %}  
+							{% if tags_list.first[0] == null %}
+								{% for tag in tags_list %} 
+									<li class="category"><a href="/blog/category#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
+								{% endfor %}
+							{% else %}
+								{% for tag in tags_list %} 
+									<li class="category"><a href="/blog/category#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>({{ tag[1].size }})</span></a></li>
+								{% endfor %}
+							{% endif %}
+						{% assign tags_list = nil %}
+					</ul>
+				</div>
+</div>

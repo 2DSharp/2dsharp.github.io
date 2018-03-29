@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Twodee's blog"
+title: "Twodee's kitchen"
 email: 2d@twodee.me
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog on software development journey with Dedipyaman Das, an 18 year old programmer from Agartala, India.
+  A blog on software development, edited by Dedipyaman Das (@2DSharp).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 2DSharp
@@ -28,7 +28,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-paginate
+permalink: /blog/:categories/:year/:month/:day/:title
+paginate_path: "/blog/page:num/"
+paginate: 5
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

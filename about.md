@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a programmer, web developer and a tweaker. My interests range from linux servers to compilers, from Dragon ball to Avengers. I build stuff out of tiny pieces of plain text and turn it into something useful. I have worked on domains varying from the web, cloud, native apps, cross platform apps, college utility systems, server apps, robotics to home automation software. I am a full-time Linux guy and a supporter of FOSS.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am currently in college pursuing an engineering degree in Computer Science, still freshman year and have written quite some software for my college in the last two semesters, it was draining but it was fun. I am low on my social spirits right now and under a hibernation period to get my shit back together.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

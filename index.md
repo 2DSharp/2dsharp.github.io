@@ -1,6 +1,32 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
 ---
+<div style="width: 100%; text-align: center; margin: 0px auto;">
+<img class="bigpic" style="" width="200" src="{{ "/assets/2d.jpg" | relative_url }}" >
+	</div>
+
+{:.center}
+## Dedipyaman Das
+
+{:.center}
+Software Developer, Cloud Enthusiast, FOSS Supporter, Learner
+<hr>
+<p></p>
+{:.center}
+[*Twodee or 2DSharp redirects here*] I make and break things since 2010. I write about software, my experiences with new and old technology, paradigms and architectures. 
+<ul class="frontboxcontainer">
+	<a href="/about"><li style="border-color: firebrick" class="frontbox">About</li></a>
+	<a href="/blog"><li style="border-color: #00B5FF" class="frontbox">Blog</li></a>
+	<a href=""><li style="border-color:#91CC41"  class="frontbox">Projects</li></a>
+	<a href="https://github.com/2DSharp"><li style="border-color: #313131" class="frontbox">Github</li></a>
+	<a href=""><li style="border-color: #DA5729" class="frontbox">Contact</li></a>
+</ul>
+
+
+Things the website will usually be populated with:
+* My projects.
+* Good and bad practices.
+* Things I learn.
+* Topic explanation (See Feynmann technique).
+* Philosophical software BS.
+* General rants.
