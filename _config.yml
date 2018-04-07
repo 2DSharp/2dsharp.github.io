@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 2DSharp
 github_username:  2DSharp
+linkedin_username: dedipyaman
 author: Dedipyaman Das
 tagline: Eat, sleep, code, repeat
 # Build settings
@@ -32,6 +33,7 @@ plugins:
 permalink: /blog/:categories/:year/:month/:day/:title
 paginate_path: "/blog/page:num/"
 paginate: 5
+show_excerpts: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

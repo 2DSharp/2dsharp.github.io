@@ -6,7 +6,7 @@ layout: page
 	</div>
 
 {:.center}
-## Dedipyaman Das
+## Dedipyaman Das <img src="assets/verified.png" height="20">
 
 {:.center}
 Software Developer, Cloud Enthusiast, FOSS Supporter, Learner
@@ -22,7 +22,7 @@ Software Developer, Cloud Enthusiast, FOSS Supporter, Learner
 	<a href=""><li style="border-color: #DA5729" class="frontbox">Contact</li></a>
 </ul>
 
-
+<p></p>
 Things the website will usually be populated with:
 * My projects.
 * Good and bad practices.

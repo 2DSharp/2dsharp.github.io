@@ -24,12 +24,10 @@ layout: default
 					<span class="post-meta">{{ post.date | date: date_format }}</span>
 					<span class="post-meta">| {{ post.categories }}</span>
 					<div>
-						{{ post.excerpt }}<a class="smalltext" href="{{ post.url | relative_url }}">Read more &raquo;</a>				
+					{%- if site.show_excerpts -%}
+          	{{ post.excerpt }}
+        	{%- endif -%}<a class="smalltext" href="{{ post.url | relative_url }}">Read more &raquo;</a>				
 				</div>
-
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
