@@ -22,7 +22,9 @@ layout: default
           </a>
         </h3>
 					<span class="post-meta">{{ post.date | date: date_format }}</span>
-					<span class="post-meta">| {{ post.categories }}</span>
+					<span class="post-meta">|         {% for category in post.categories %}
+          <a href="/blog/category#{{ category }}"> {{ category }} </a> 
+        {% endfor %}</span>
 					<div>
 					{%- if site.show_excerpts -%}
           	{{ post.excerpt }}
@@ -67,11 +69,11 @@ layout: default
 						{% assign tags_list = site.categories %}  
 							{% if tags_list.first[0] == null %}
 								{% for tag in tags_list %} 
-									<li class="category"><a href="/blog/category#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
+									<li class="category"><a href="/blog/category#{{ tag }}">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
 								{% endfor %}
 							{% else %}
 								{% for tag in tags_list %} 
-									<li class="category"><a href="/blog/category#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>({{ tag[1].size }})</span></a></li>
+									<li class="category"><a href="/blog/category#{{ tag[0] }}">{{ tag[0] }} <span>({{ tag[1].size }})</span></a></li>
 								{% endfor %}
 							{% endif %}
 						{% assign tags_list = nil %}

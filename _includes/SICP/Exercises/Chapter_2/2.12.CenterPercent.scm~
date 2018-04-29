@@ -1,0 +1,21 @@
+;; SICP- Second Edition
+;; Author- Dedipyaman Das (2d@twodee.me)
+;; Exercise 2.12
+;; A more practical approach for engineers
+;; Intervals with percentages
+
+(define (make-interval a b) (cons a b))
+(define (lower-bound interval) (car interval))
+(define (upper-bound interval) (cdr interval))
+
+(define (make-center-width center width)
+  (make-interval (- center width) (+ center width)))
+(define (center interval)
+  (/ (+ (lower-bound interval) (upper-bound interval)) 2))
+(define (width interval)
+  (/ (- (upper-bound interval) (lower-bound interval)) 2))
+
+(define (make-center-percent center percentage)
+  (make-center-width center (* (/ percentage 100) center)))
+(define (percent interval)
+  (* (/ (width interval) center) 100))

@@ -1,0 +1,30 @@
+;; SICP- Second Edition
+;; Author- Dedipyaman Das (2d@twodee.me)
+;; Implementing the concept of rational numbers
+;; Based on Wishful Thinking
+
+(define make-rat cons)
+(define numer car)
+(define denom cdr)
+
+(define (add-rat a b)
+  (make-rat (+(* (numer a) (denom b))
+	      (* (numer b) (denom a)))
+	    (* (denom a) (denom b))))
+
+(define (sub-rat a b)
+  (make-rat (- (* (numer a) (denom b))
+	       (* (numer b) (denom a)))
+	    (* (denom a) (denom b))))
+
+(define (mul-rat a b)
+  (make-rat (* (numer a) (numer b))
+	    (* (denom a) (denom b))))
+
+(define (div-rat a b)
+  (make-rat (* (numer a) (denom b))
+	    (* (numer b) (denom a))))
+
+(define (equal-rat? a b)
+  (= (* (numer a) (denom b))
+     (* (numer b) (denom a))))
