@@ -6,7 +6,7 @@ exclude: true
 showindex: false
 ---
 
-<img src="{{ "/projects/BlueBerry/FullModel.jpg" | absolute_url }}" alt="Ful model of Blu" style="width: 200px;"/>
+<img src="{{ "/projects/blueberry/FullModel.jpg" | absolute_url }}" alt="Full model of Blu" style="width: 200px;"/>
 
 A semi-autonomous dog robot based on Arduino geared towards security. 
 
@@ -20,7 +20,7 @@ Just like any other dog, it does what the user asks it to do. It operates on thr
 
 To run the robot, you have to pair your phone's bluetooth to Blu's bluetooth connection. Once you set up the password, you can operate on the command line Blu is set to work with over the bluetooth.
 
-<img src="{{ "/projects/BlueBerry/broken.jpg" | absolute_url }}" alt="Insides of Blu" align="center"/>
+<img src="{{ "/projects/blueberry/broken.jpg" | absolute_url }}" alt="Insides of Blu" align="center"/>
 
 Let Blu describe how the physics behind it works:
 
@@ -43,7 +43,7 @@ I am made of cardboard, mountboards and 3D-printed material."
 
 ### Here's the circuit diagram:
 
-<img src="{{ "/projects/BlueBerry/circuit.jpg" | absolute_url }}" alt="Circuit diagram" />
+<img src="{{ "/projects/blueberry/circuit.jpg" | absolute_url }}" alt="Circuit diagram" />
 
 To find out how BlueBerry runs on code, check out [this link][blu-github].
 
