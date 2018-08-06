@@ -4,6 +4,8 @@ title:  "The power of wishful thinking"
 date:   2018-04-29
 excerpt_separator: <!--more-->
 categories: Programming Clean-Code
+description: Wishful thinking, a neat technique can help reduce complexity. Find out how!
+image: assets/profile.jpg
 author: Dedipyaman Das
 ---
 

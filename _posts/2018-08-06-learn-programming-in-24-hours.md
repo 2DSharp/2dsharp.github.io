@@ -6,6 +6,7 @@ excerpt_separator: <!--more-->
 comments: true
 image: assets/profile.jpg
 categories: Programming Beginners
+description: How do you learn programming in 24 hours? You don't! Stop falling for the bait!
 author: Dedipyaman Das
 ---
 
