@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+description: Hi, I am Dedipyaman. I am a software developer and a student. I make things.
+
 permalink: /about/
 ---
 
