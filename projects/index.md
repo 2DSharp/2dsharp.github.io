@@ -7,7 +7,7 @@ title: Projects
 <div class="project-box"> 
   <div class="project-header">
     <div class="img-container">
-      <img class="project-img" src="">
+      <img class="project-img" src="/assets/fixture.png">
     </div>
     <a href="https://github.com/eyeon/Fixture"><h3> Fixture</h3></a>
   </div>
