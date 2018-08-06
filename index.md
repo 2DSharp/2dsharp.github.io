@@ -2,14 +2,14 @@
 layout: page
 ---
 <div style="width: 100%; text-align: center; margin: 0px auto;">
-<img class="bigpic" style="" width="200" src="{{ "/assets/2d.jpg" | relative_url }}" >
+<img class="bigpic" style="" width="200" src="{{ "/assets/profile.jpg" | relative_url }}" >
 	</div>
 
 {:.center}
 ## Dedipyaman Das <img src="assets/verified.png" height="20">
 
 {:.center}
-Software Developer, Cloud Enthusiast, FOSS Supporter, Learner
+Software Developer, Learner
 <hr>
 <p></p>
 {:.center}
@@ -19,14 +19,13 @@ Software Developer, Cloud Enthusiast, FOSS Supporter, Learner
 	<a href="/blog"><li style="border-color: #00B5FF" class="frontbox">Blog</li></a>
 	<a href="/projects"><li style="border-color:#91CC41"  class="frontbox">Projects</li></a>
 	<a href="https://github.com/2DSharp"><li style="border-color: #313131" class="frontbox">Github</li></a>
-	<a href=""><li style="border-color: #DA5729" class="frontbox">Contact</li></a>
+	<a href="/contact"><li style="border-color: #DA5729" class="frontbox">Contact</li></a>
 </ul>
 
 <p></p>
 Things the website will usually be populated with:
 * My projects.
 * Good and bad practices.
-* Things I learn.
-* Topic explanation (See Feynmann technique).
+* Things I learn. (See Feynmann technique)
 * Philosophical software BS.
 * General rants.
