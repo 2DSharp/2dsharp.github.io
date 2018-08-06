@@ -4,6 +4,7 @@ title:  "Learn programming in 24 hours!"
 date:   2018-08-06
 excerpt_separator: <!--more-->
 comments: true
+image: assets/profile.jpg
 categories: Programming Beginners
 author: Dedipyaman Das
 ---
