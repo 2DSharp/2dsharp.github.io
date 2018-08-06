@@ -12,7 +12,7 @@ blockquote {
   max-width: 960px;
 }
 .post-index {
-	width: 600px;
+	max-width: 600px;
 	display: inline-block;
 	float: left;
 }
