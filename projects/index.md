@@ -46,7 +46,7 @@ Fixture is a no-bullshit, free and open source raster graphics editor.
       <img class="project-img" src="/assets/BlueBerryMinimal.png">
    
     </div>
-    <a href="BlueBerry/"><h3> Project BlueBerry</h3></a>
+    <a href="blueberry/"><h3> Project BlueBerry</h3></a>
   </div>
   <div class="project-description">
   A Semi-Autonomous dog robot based on Arduino.
