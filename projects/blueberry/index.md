@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project BlueBerry
-permalink: /projects/BlueBerry/
+permalink: /projects/blueberry/
 exclude: true
 showindex: false
 ---
