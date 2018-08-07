@@ -6,7 +6,7 @@ description: Hi, I am Dedipyaman. I am a software developer and a student. I mak
 permalink: /about/
 ---
 
-<img class="bigpic" style="text-align:0; margin: 0px auto;" width="200" src="{{ "/assets/2d.jpg" | relative_url }}" >
+<img class="bigpic" style="text-align:0; margin: 0px auto;" alt="Dedipyaman Das" width="200" src="{{ "/assets/2d.jpg" | relative_url }}" >
 
 Hi, I am **Dedipyaman**. I am a software developer and a student.
 

@@ -4,7 +4,7 @@ layout: page
 description: Welcome to Twodee's kitchen- A software development blog by Dedipyaman Das.
 ---
 <div style="width: 100%; text-align: center; margin: 0px auto;">
-<img class="bigpic" style="" width="200" src="{{ "/assets/profile.jpg" | relative_url }}" >
+<img class="bigpic" alt="Dedipyaman Das" style="" width="200" src="{{ "/assets/profile.jpg" | relative_url }}" >
 	</div>
 
 {:.center}
