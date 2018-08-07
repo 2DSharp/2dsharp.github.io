@@ -1,6 +1,6 @@
 ---
 layout: page
-
+image: assets/profile.jpg
 description: Welcome to Twodee's kitchen- A software development blog by Dedipyaman Das.
 ---
 <div style="width: 100%; text-align: center; margin: 0px auto;">

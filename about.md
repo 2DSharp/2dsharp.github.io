@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: assets/2d.jpg
 description: Hi, I am Dedipyaman. I am a software developer and a student. I make things.
 
 permalink: /about/
