@@ -17,7 +17,7 @@ Every now and then I come across Youtube videos or ads along the lines of - "Lea
 
 So, how do you really get there? Or do you even get there?
 
-The magic sauce to this recipe is- _*drumroll*_ **practice**. Ah, the glaringly obvious word that you can find anywhere. What a disappointment, right? But really, think about it. How did the best programmer, muscian, driver, carpenter or anyone who you'd consider an expert _get there_? 
+The magic sauce to this recipe is- _*drumroll*_ **practice**. Ah, the glaringly obvious word.. What a disappointment, right? But really, think about it. How did the best programmer, muscian, driver, carpenter or anyone who you'd consider an expert _get there_? 
 
 Was it because they found some wonderful resource online or a youtube tutorial that helped them attain Nirvana? Did they learn it in 24 or 36 hours?
 
@@ -25,17 +25,17 @@ They started off just like any other kid who wants to ride a bicycle for the fir
 
 As a kid does, they tried out something that intrigued them. And like in most cases, they fell. They failed. _Failure is an important step towards success._ If you don't know the taste of failure, you'd never know the joy of winning. And chances are, you will never win. 
 
-I understand, we are humans. We are greedy and we don't like to risk it. Most of the undergrad students in my college took CS simply because _"it has a good scope"_ or _"it's trending in the market now"_ or even for outrageous reasons like _"I got great marks in my XYZ exam which involved math, physics and chemistry- so I should take CS because that's what toppers do"_. I am not saying that these are wrong motivations for joining CS, you gotta feed yourself, right? But when you **do** join CS, and then you **DO NOT** like the subject and yet you start memorizing code snippets, googling "learn C++ in 24 hours" to pass the test tomorrow, that's where you are doing it wrong. 
+I understand, we are humans. We are greedy and we don't like to risk it. Most of the undergrad students in my college took CS simply because _"it has a good scope"_ or _"it's trending in the market now"_ or even for outrageous reasons like _"I got great marks in my XYZ exam which involved math, physics and chemistry- so I should take CS because that's what toppers do"_. I am not saying that these are wrong motivations for joining CS, you gotta feed yourself, right? But when you **do** join CS, and then you **DO NOT** like the subject and you start memorizing code snippets, googling "learn C++ in 24 hours" to pass the test tomorrow, that's where you are doing it wrong. 
 
 **YOU DO NOT LEARN PROGRAMMING IN 24 HOURS.**  Repeat after me- **YOU DO NOT LEARN PROGRAMMING IN 24 HOURS.**
 
-Sure, you can learn a few keywords, variable assignment, conditional statements, loops in a couple of hours. But that's not remotely close to what programming really stands for. You are memorizing a **language** not learning **programming**. 
+Sure, you can learn a few keywords, variable assignments, conditional statements, loops in a couple of hours. But that's not remotely close to what programming really stands for. You are memorizing a **language** not learning how to **program**. 
 
-To be a programmer, to learn programming. You have to start from the very beginning, go into the child curious mode and start asking the silliest questions that come to your mind. And then you start programming, with even the tiniest bit of information you gathered uptil now. You apply everything you learnt. You have to see it work and understand why it works. And then you learn a bit more, and you write a bit more. And you keep doing it. For a day. A week. A month. A year. A decade. A lifetime. 
+To be a programmer, to learn programming you have to start from the very beginning, go into the child curious mode and start asking the silliest questions that come to your mind. And then you start programming, with even the tiniest bit of information you gathered uptil now. You apply everything you learnt. You have to see it work and understand why it works. And then you learn a bit more, and you write a bit more. And you keep doing it. For a day. A week. A month. A year. A decade. A lifetime. 
 
 > "Now take your best rhyme, outdo it, now do it a thousand times" - Eminem
 
-You know the difference between a real software engineer at google and a wannabe _hacker boyz_ straight out of college? The software engineer wrote thousands, maybe millions of lines of code in his or her life while our four year degree _hackerz_ has been youtube for far too long and installed Kali Linux. The software engineer is humble, has humility and knows their limitations. They keep learning and they don't stop.
+You know the difference between a real software engineer at google and a wannabe _hacker boyz_ straight out of college? The software engineer wrote thousands, maybe millions of lines of code in his or her life while our four year degree _hackerz_ has been on youtube for far too long and installed Kali Linux. The skillful engineer is humble and knows their limitations. They keep learning and they don't stop. The more they learn about something, the more they know how much they don't know.
 
 The only way to learn programming is by programming. That's a recursive process and this is how every other form of craft or engineering is meant to be. You don't learn if you don't build enough. 
 
