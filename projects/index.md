@@ -1,5 +1,6 @@
 ---
 layout: page
+description: A list of projects I have worked on and have been working on. Fixture - A raster graphics editor, Quizatron - A quiz builder...
 title: Projects
 ---
 
@@ -26,18 +27,6 @@ Fixture is a no-bullshit, free and open source raster graphics editor.
   <div class="project-description">
   A cross platform Quiz application designed to allow easily build and run Quizzes. This allows for more control of the presentation screen with a dedicated console.
 </div>
-</div>
-
-<div class="project-box red"> 
-  <div class="project-header">
-    <div class="img-container">
-      <img class="project-img" src="/assets/lambda.png">
-    </div>
-    <a href="SICP/"><h3> The SICP Challenge</h3></a>
-  </div>
-  <div class="project-description">
-    Tackling the SICP course from MIT. Working out all the exercises cover by cover.
-  </div>
 </div>
 
 <div class="project-box"> 

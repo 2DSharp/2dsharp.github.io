@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: If you'd like to contact me, you can email me or hit me up on one of my social media links.
 permalink: /contact/
 ---
 

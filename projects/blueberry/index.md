@@ -29,7 +29,7 @@ To look around, I use a Servo motor.
 To detect obstacles and avoid them I use Ultrasonic sensors.
 I am made of cardboard, mountboards and 3D-printed material."
 
-### This modules used in the project:
+### The modules used in the project:
 
 - Arduino Uno R3
 - Arduino Mega 2560 R3

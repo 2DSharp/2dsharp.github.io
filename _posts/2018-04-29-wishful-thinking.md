@@ -86,6 +86,4 @@ Now, when you are about to build a big, complex system to the likes of Facebook 
 
 This ensures your system can be expanded indefinitely as your business requires you to do and improve the sub parts of the system without having to change anything else than the specific piece you want to fix.
 
-This is the power of wishful thinking.
-
 _Dedipyaman_
