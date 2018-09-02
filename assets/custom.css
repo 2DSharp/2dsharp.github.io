@@ -52,7 +52,6 @@ blockquote {
 	border-top: 1px solid #d1d5da !important;
 	border-left: 1px solid #d1d5da !important;
 	border-right: 1px solid #d1d5da !important;
-
 	text-align: center;
 	margin: 2px;
 	list-style: none;
@@ -60,6 +59,7 @@ blockquote {
 	width: 18%;
 	padding-top: 10px;
 	border-bottom: 3px solid;
+	min-width: 150px;
 }
 .frontbox:hover {
 	border-bottom-color:darkorchid !important;
