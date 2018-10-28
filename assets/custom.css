@@ -19,6 +19,15 @@ blockquote {
 
 }
 
+.alt {
+	font-family: 'Open sans', serif;
+	font-size: 14px;
+
+	padding-right: 10px;
+	padding-bottom: 20px;
+	color: gray;
+}
+
 .h-entry {
 	max-width: 800px;
 	padding: 5px;
@@ -99,9 +108,9 @@ li.category {
   color: #000;
   display: inline-block;
   float: left;
-border: 1px solid #4188EC;
-border-radius: 5px;
-min-height: 230px;
+  border: 1px solid #4188EC;
+  border-radius: 5px;
+  min-height: 230px;
 }
 .project-box a {
   color: #6a6a6a;
@@ -133,12 +142,12 @@ min-height: 230px;
   font-size: 14px;
 }
 ul.column {
-    -moz-column-count: 4;
-    -moz-column-gap: 10px;
-    -webkit-column-count: 4;
-    -webkit-column-gap: 10px;
-    column-count: 4;
-    column-gap: 10px;
+  -moz-column-count: 4;
+  -moz-column-gap: 10px;
+  -webkit-column-count: 4;
+  -webkit-column-gap: 10px;
+  column-count: 4;
+  column-gap: 10px;
 }
 
 .footnote {
