@@ -30,7 +30,7 @@ I didn't need to care about whose birthday it was, or who just bought a fancy ne
 
 I eventually joined some of the essential social media platforms which I do need for communicating with people for work. I figured LinkedIn was a great medium to make great connections on a professional level, Twitter became a nice place to get updates from my favorite things to follow and I started checking my email instead of Whatsapp messages.
 
-With all of these happening, I went full productive-workaholic mode. I needed to make something everyday. Make some signifcant change. Nothing in the world gave me more pleasure than making that one bit of code work. It grew on me. I wanted to acheive something everyday. 
+With all of these happening, I went full productive-workaholic mode. I needed to make something everyday. Make some significant change. Nothing in the world gave me more pleasure than making that one bit of code work. It grew on me. I wanted to acheive something everyday. 
 
 I slowly got addicted to productivity. It was my drug. Then came real life, and disappointments. The thing is, **addiction is bad**. Period. Even if it's something good you are getting addicted to, if you don't have enough flexibility in your mindset, you tend to disappoint yourself. Every single day, when I wouldn't get something significant done - I would be sad. I would go to bed not happy with myself, introspecting everything wrong that I did today and hoping to have a better tomorrow.
 
@@ -38,7 +38,7 @@ This thing never worked. I have this problem, and I am sure a lot of others do t
 
 _Look, you wasted the entire day, you didn't acheive what you wanted to, and what you could have. You have 3 more hours of uptime left, and you will be weak and angry for this period. Why don't you just sleep now, and I **guarantee** you, tomorrow is going to be the day when you change the world?_
 
-The guy sounds pretty damn reasonable. After all, what good can I do in the last 3 hours of the day when I couldn't do anything at all the entire day? This, when coupled with procrastination would be lethal. The panic monkey visits me occasionally, I get productive in the last moments sometimes. Sometimes I don't. This, when continued for a week or more - brings in a new mindset. 
+The guy sounds pretty damn reasonable. After all, what good can I do in the last 3 hours of the day when I couldn't do anything at all the entire day? This, when coupled with procrastination would be lethal. The panic monkey visits me occasionally, I get productive in the last moments sometimes. Sometimes I don't. This, when continued for a week or more - brings in a new thought process. A scary one.
 
 I would get more sadistic and more destructive. Every ounce of motivation would be crippled, and I would crave the social life I once had. Motivation is the hardest to find at that point.
 
