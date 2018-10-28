@@ -36,15 +36,21 @@ I slowly got addicted to productivity. It was my drug. Then came real life, and 
 
 This thing never worked. I have this problem, and I am sure a lot of others do too, if I am not productive throughout the entire day - I would have this literal heat passing from my feet to my body and I can feel it very well. It happens at night, usually after my dinner. My feet would turn cold, my palms would be sweaty and I would have this sadistic anger within me, that I almost want to break everything I have. And then, my friend who lives inside me, wakes up. A little demonic angel. This guy, comes up with a _brilliant_ idea!
 
-_Look, you wasted the entire day, you didn't acheive what you wanted to, and what you could have. You have 3 more hours of uptime left, and you will be weak and angry for this period. Why don't you just sleep now, and I **guarantee** you, tomorrow is going to be the day when you change the world._
+_Look, you wasted the entire day, you didn't acheive what you wanted to, and what you could have. You have 3 more hours of uptime left, and you will be weak and angry for this period. Why don't you just sleep now, and I **guarantee** you, tomorrow is going to be the day when you change the world?_
 
-The guy sounds pretty damn reasonable. After all, what good can I do in the last 3 hours of the day when I couldn't do anything at all the entire day? This, when coupled with procrastination would be lethal. The panic monkey visits me occasionally, I get productive in the last moments sometimes. Sometimes I don't. This, when continued for a week or more - brings in a new mindset. I get more sadistic and more destructive. Every ounce of motivation would be crippled, and I would crave the social life I once had. Motivation is the hardest to find at that point.
+The guy sounds pretty damn reasonable. After all, what good can I do in the last 3 hours of the day when I couldn't do anything at all the entire day? This, when coupled with procrastination would be lethal. The panic monkey visits me occasionally, I get productive in the last moments sometimes. Sometimes I don't. This, when continued for a week or more - brings in a new mindset. 
+
+I would get more sadistic and more destructive. Every ounce of motivation would be crippled, and I would crave the social life I once had. Motivation is the hardest to find at that point.
 
 Focus and attention are two of the hardest earned things in my life. At the end, obsession towards productivity turned on me. The mind needs to be flexible enough to handle all the kind of curves life would throw at you. Perhaps the best way is to hustle, take every day as a different one. Things change, situations change. If you need to find a motivation, do new things and find that trigger.
 
-Letting it grow, perhaps, isn't the best option. Growing how to deal with it maybe is. It works for me at least. When I changed my mindset- to live one day at a time. I stopped looking for how I wasn't productive so long, but what can I do in the next one hour, maybe one tiny refactoring could help. It turned out, I wasn't as disappointed on myself as I would have been. I could do more, and motivation was to do one tiny thing instead of making a big change everyday. This worked out for me, pretty well. 
+Letting it grow, perhaps, isn't the best option. Growing how to deal with it maybe is. It works for me at least. When I changed my mindset- to live one day at a time. I stopped looking for how I wasn't productive so long, but what can I do in the next one hour? Maybe one tiny refactoring could help. 
 
-Although I still have downtimes, I have low days. I know how to deal with them now. It's easier when you do have a bigger goal in mine, but you take one small atomic step at a time. Go easy on yourself. Life doesn't need to be so strict. We don't have to be a railway track when life itself is more like a curvy rocky mountain way. 
+It turned out, I wasn't as disappointed on myself as I would have been. I could do more. The motivation was to do one tiny thing instead of making a big change everyday. This worked out for me, pretty well. 
+
+Although I still have downtimes, I have low days. I know how to deal with them now. It's easier when you do have a bigger goal in mind, but you take one small atomic step at a time.
+
+Go easy on yourself. Life doesn't need to be so strict. We don't have to be a railway track when life itself is more like a curvy rocky mountain way. 
 
 Make atomic changes, atomic commits. 
 
