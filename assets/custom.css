@@ -1,7 +1,13 @@
-blockquote {
-    font-family: 'Lora', serif;
-    font-size: 22px;
+
+.e-content {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
 }
+
+blockquote {
+   font-size: 22px;
+}
+
 .pagination {
 	font-size: 14px;
 }
@@ -10,6 +16,12 @@ blockquote {
 }
 .wrapper {
   max-width: 960px;
+}
+
+.h-entry {
+	width: 800px;
+	padding-left: 80px;
+	padding-right: 80px;
 }
 .post-index {
 	max-width: 600px;
