@@ -21,6 +21,7 @@ blockquote {
 
 .h-entry {
 	max-width: 800px;
+	padding: 5px;
 	margin: 0px auto;
 }
 .post-index {
