@@ -16,12 +16,12 @@ blockquote {
 }
 .wrapper {
   max-width: 960px;
+
 }
 
 .h-entry {
 	max-width: 800px;
-	padding-left: 80px;
-	padding-right: 80px;
+	margin: 0px auto;
 }
 .post-index {
 	max-width: 600px;
