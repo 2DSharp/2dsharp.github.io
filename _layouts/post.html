@@ -35,8 +35,8 @@ layout: default
         <a  href="{{site.baseurl}}{{previous.url}}" title="Previous Post: {{previous.title}}">
             <div style="text-align: right">
                 {% if previous %}
-                <h4> ← Previous Post </h4>
-                <h4> {{previous.title}} </h4>
+                <p> ← Previous Post <br/>
+                  {{previous.title}} </p>
                 {% endif %}
             </div>
         </a>
@@ -44,18 +44,16 @@ layout: default
 
     {% if page.next %}
         {% assign next = page.next %}
-    {% else %}
-        {% assign last lastPostIndex = site.posts | size | minus: 1 %}
-        {% assign next = site.posts[lastPostIndex] %}
-    {% endif %}
-    <div class="right">
-        <a href="{{site.baseurl}}{{next.url}}" title="next Post: {{next.title}}">
+            <div class="right">
+            <a href="{{site.baseurl}}{{next.url}}" title="Next Post: {{next.title}}">
             <div>
-                <h4> Next Post →</h4>
-                <h4> {{next.title}}</h4>
+                <p> Next Post → <br/>
+                  {{next.title}}</p>
             </div>
-        </a>
-    </div>
+              </a>
+            </div>
+    {% endif %}
+
   <p></p>
   <div style="width: 100%"></div>
 </div>
