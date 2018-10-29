@@ -156,6 +156,23 @@ li.category {
   
 }
 
+a .footer-heading {
+	color: #23222F;
+}
+.footer-linkbox {
+	padding-bottom: 10px;
+}
+.footer-mainlinks {
+	display: inline-block;
+	text-align: right;
+	float: right;
+	
+}
+
+.footer-mainlinks a {
+	margin: 5px;
+	font-size: 14px;
+}
 
 .project-description {
   margin-top: 5px;
