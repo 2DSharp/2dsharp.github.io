@@ -25,6 +25,41 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
+<div class="more-work">
+    {% if page.previous %}
+        {% assign previous = page.previous %}
+    {% else %}
+        {% assign previous = false %}
+    {% endif %}
+    <div class="left">
+        <a  href="{{site.baseurl}}{{previous.url}}" title="Previous Post: {{previous.title}}">
+            <div style="text-align: right">
+                {% if previous %}
+                <h4> ← Previous Post </h4>
+                <h4> {{previous.title}} </h4>
+                {% endif %}
+            </div>
+        </a>
+    </div>
+
+    {% if page.next %}
+        {% assign next = page.next %}
+    {% else %}
+        {% assign last lastPostIndex = site.posts | size | minus: 1 %}
+        {% assign next = site.posts[lastPostIndex] %}
+    {% endif %}
+    <div class="right">
+        <a href="{{site.baseurl}}{{next.url}}" title="next Post: {{next.title}}">
+            <div>
+                <h4> Next Post →</h4>
+                <h4> {{next.title}}</h4>
+            </div>
+        </a>
+    </div>
+  <p></p>
+  <div style="width: 100%"></div>
+</div>
+<div>
 Enjoyed the article? 
 
 {% include social-bar.html %}
@@ -42,8 +77,10 @@ Throw in a comment!
     <h2>About The Author</h2>
   <p style=""> Dedipyaman Das is a software developer and a student from India. He writes about software, and has been working on server, desktop, mobile, web development for 8 years. He is also a part time raster graphic artist. Currently, Dedipyaman is a Computer Science undergraduate sophomore.</p>
     </div>
-  
+
+        
 </div>
+  </div>
 <hr>
 <p class="footnote">All the views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author’s employer, organization, committee or other group or individual. </p>
 

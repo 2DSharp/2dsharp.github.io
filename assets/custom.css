@@ -1,3 +1,21 @@
+.left, .right {
+	max-width: 400px;
+	display: inline-block;
+}
+
+.more-work {
+	max-width: 100%;
+	display: block;
+	min-height: 100px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
 
 .e-content {
     font-family: 'Merriweather', serif;
