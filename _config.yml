@@ -31,6 +31,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll_reading_time
+  
 permalink: /blog/:categories/:year/:month/:day/:title
 paginate_path: "/blog/page:num/"
 paginate: 5
@@ -52,3 +54,9 @@ facebook_app_id: 630734310643415
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+reading_time:
+  words_per_minute: 200
+  translations:
+    about: about
+    minute: minute
+    minutes: minutes

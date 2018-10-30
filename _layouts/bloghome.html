@@ -22,6 +22,8 @@ layout: default
 					<span class="post-meta">|         {% for category in post.categories %}
           <a href="/blog/category#{{ category }}"> {{ category }} </a> 
         {% endfor %}</span>
+         <span class="post-meta"> • {{ post.content | reading_time }} read</span>
+
 					<div>
 					{%- if site.show_excerpts -%}
           	{{ post.excerpt }}
