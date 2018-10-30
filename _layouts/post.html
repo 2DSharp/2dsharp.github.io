@@ -8,12 +8,11 @@ layout: default
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        {{ page.date | date: date_format }} | 
         {% for category in page.categories %}
-          <a href="/blog/category#{{ category }}"> | {{ category }} </a> 
+          <a href="/blog/category#{{ category }}"> {{ category }} </a> 
         {% endfor %}
       </time>
-      <span> | {{ content | reading_time }} read </span>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
@@ -63,9 +62,11 @@ Enjoyed the article?
 
 {% include social-bar.html %}
 
-{%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
-{%- endif -%}
+Throw in a comment!
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
 
 <div style="margin: 0px auto; margin-top: 30px;  max-width: 800px; padding: 10px;">
 <div style="display: inline-block; text-align:center; margin: 10px auto; margin-right: 20px; width: 18%; max-width: 200px; min-width: 80px; float: left"><img class="bigpic" alt="Dedipyaman Das" style="  vertical-align: middle; max-width: 100%" src="{{ "/assets/2d.jpg" | relative_url }}" >
