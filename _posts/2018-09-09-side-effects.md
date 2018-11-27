@@ -10,10 +10,23 @@ description: What happens when being productive becomes an obsession? What if it
 author: Dedipyaman Das
 ---
 
-When I decided to leave Facebook and Instagram for good, more than a year back, I had a valid point- social media was getting toxic. Unbearable. It was growing heavy on me. I was having trouble dealing with my priorities, living in a world of lies, where every other person was happy. Their smiles on social media would brighten up anyone's day. They had the perfect life. I was confused. How can I be not so happy? Why doesn't my profile reflect the happiness that they do? 
+When I decided to leave Facebook and Instagram for good, more than a year back, I had a valid point- social media was getting toxic. Unbearable. It was growing heavy on me. 
+
+I was having trouble dealing with my priorities, living in a world of lies, where every other person was happy. Their smiles on social media would brighten up anyone's day.
+
+They had the perfect life. I was confused. 
+
+How can I be not so happy? Why doesn't my profile reflect the happiness that they do? 
 <!--more-->
 
-Well, then I decided to check my own profile, and guess what? I was happy too! At least my profile made it look like I was. Social media is not what you are but what you make of it. I was going through a range of emotions, not all at once. It wasn't a bombshell dropped on me. It was more like poetry. Taking me through different facets, gradually progressing while slowly pouring on me with one central idea, which wasn't so easy to decipher- just like poems are. 
+Well, then I decided to check my own profile, and guess what? 
+
+I was happy too! At least my profile made it look like I was. 
+
+Social media is not what you are but what you make of it. 
+
+I was going through a range of emotions, not all at once. It wasn't a bombshell dropped on me. It was more like poetry. Taking me through different facets, gradually progressing while slowly pouring on me with one central idea, which wasn't so easy to decipher- just like poems are. 
+
 At one point when, I figured where I break. I found my tripping point. 
 
 I had mixed emotions. I had this idea, _"what would happen if the fancy online presence I made for myself is not there when I would need it the most? Because **someday** I will come up with this **world-changing** thing that would need all the exposure I can give it to fly"_. 
