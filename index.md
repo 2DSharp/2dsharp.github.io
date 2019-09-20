@@ -23,8 +23,6 @@ Software Developer, Learner
 	<a href="https://instagram.com/dedipyaman"><li style="border-color: #DA5729" class="frontbox">Graphic designs</li></a>
 	<a href="https://github.com/2DSharp"><li style="border-color: #313131" class="frontbox">Github</li></a>
 </ul>
-
-<p></p>
 Things the website will usually be populated with:
 * My projects.
 * Good and bad practices.
