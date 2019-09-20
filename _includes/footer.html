@@ -11,11 +11,14 @@
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
 					    {% unless my_page.exclude %}
+                        {% unless my_page.url contains "page" %} <!-- hack to remove other pages of the blog listings -->
+
             {% if my_page.hard-link %}
                 <a class="page-link footer-space" href="{{ my_page.hard-link }}">{{ my_page.title | escape }}</a>
             {% else %}
             <a class="page-link footer-space" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {% endif %}
+        {% endunless %}
 								{% endunless %}
 							{% endif %}
           {% endfor -%}
@@ -46,7 +49,7 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
-          <p> &copy; Dedipyaman Das (Twodee) | 2018 </p>
+          <p> &copy; Dedipyaman Das (Twodee) | {{'now' | date: "%s" | minus : 604800 | date: " %Y" | uri_encode | replace:"+","%20"}} </p>
       </div>
     </div>
 
