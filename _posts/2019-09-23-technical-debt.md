@@ -5,7 +5,7 @@ date:   2019-09-23
 excerpt_separator: <!--more-->
 comments: true
 image: assets/blog/debt.jpg
-categories: Experiences
+categories: Clean-Code
 description: "Technical debt is inevitable in Software Development. The debt piles up over time to send you into a non-scalable hell of code smell. How do we minimize them?"
 
 author: Dedipyaman Das
