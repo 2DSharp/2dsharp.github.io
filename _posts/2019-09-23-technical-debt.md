@@ -11,10 +11,10 @@ description: "Technical debt is inevitable in Software Development. The debt pil
 author: Dedipyaman Das
 ---
 
-Software development is cursed with an implied cost at any stage, no matter how elegant your solution looks at that point of time. Humans write code, and code is prone to ugliness. This piles up over time and dealing with it is a challenge yet to be solved by any individual or team. 
+Software development is cursed with an implied cost at any stage, no matter how elegant your solution looks at any point of time. The cost of fixing what you messed up. Humans write code, and code is prone to ugliness. This piles up over time and dealing with it is a challenge every team faces many times in their lifetime.
 <!--more-->
 
-While building any sensible system with more code filling more than a page you start breaking things down to pieces, if you aren't you should. When you start abstracting things away into separate smaller modules, you start thinking about how to put them together. Oftentimes, you need to add one tiny feature and then one more, while trying to keep the initial structure you had in mind intact.
+While building any sensible system with code filling more than a page you start breaking things down to pieces, if you aren't you should. When you start abstracting things away into separate smaller modules, you start thinking about how to put them together. Oftentimes, you need to add one tiny feature and then one more, while trying to keep the initial structure you had in mind intact.
 
 Although the idea was clear at the beginning, the pieces don't simply fit together as easily as you'd want them to be. So, you mess around the structure of the codebase a bit, just fine little harmless tweaks. As features accumulate, you start to see a big change that module's structure.
 
