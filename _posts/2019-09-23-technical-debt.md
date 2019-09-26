@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Technical debt"
+redirect_from: 
+  - /blog/clean-code/2019/09/23/technical-debt
 date:   2019-09-23
 excerpt_separator: <!--more-->
 comments: true

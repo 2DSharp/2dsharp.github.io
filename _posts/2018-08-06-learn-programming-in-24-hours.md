@@ -5,6 +5,8 @@ date:   2018-08-06
 excerpt_separator: <!--more-->
 comments: true
 image: assets/profile.jpg
+redirect_from: 
+    - /blog/programming/beginners/2018/08/06/learn-programming-in-24-hours
 categories: Programming Beginners
 description: How do you learn programming in 24 hours? You don't! Stop falling for the bait!
 author: Dedipyaman Das

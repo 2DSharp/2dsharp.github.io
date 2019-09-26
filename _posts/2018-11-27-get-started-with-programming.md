@@ -5,6 +5,8 @@ date:   2018-11-27
 excerpt_separator: <!--more-->
 comments: true
 image: assets/profile.jpg
+redirect_from: 
+    - /blog/programming/beginners/2018/11/27/get-started-with-programming
 categories: Programming Beginners
 description: How do you start programming? Here's my take on the subject and how to start preparing yourself to teach yourself programming
 author: Dedipyaman Das
