@@ -31,7 +31,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-permalink: /blog/:categories/:year/:month/:day/:title
+  - jekyll-redirect-from
+permalink: /blog/:year/:month/:day/:title
 paginate_path: "/blog/page:num/"
 paginate: 5
 show_excerpts: true
