@@ -72,7 +72,7 @@ public final class HouseBuilder
 }
 {% endhighlight %}
 
-This class knows too much about how doors and how to build both blocks and doors. Don't let your classes know too much.
+This class knows too much about how doors and blocks are built. Don't let your classes know too much.
 
 Dependency injection solves the problem by handing over a readymade door to the robot. Now if you'd like a different door, you simply swap the old door with a new door. 
 
