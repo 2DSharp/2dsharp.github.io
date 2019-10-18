@@ -148,6 +148,6 @@ One of the best strategies I have devised is to make a very local solution to a 
 
 The entire goal of design patterns is reusability, and they may have consequences and tradeoffs that come along with them which we have to deal with. 
 
-Questioning whether if its really worth the additional complexity and designing a mitigation strategy for dealing with the tradeoffs beforehand will take you a long way than simply using a pattern just because someone else is. 
+Questioning whether it's really worth the additional complexity and designing a mitigation strategy for dealing with the tradeoffs beforehand will take you a long way than simply using a pattern just because someone else is. 
 
 _You ain't gonna need it._
