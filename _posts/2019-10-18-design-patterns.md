@@ -124,7 +124,15 @@ The concept is tempting and as a consequence codebases turn into a huge mess of 
 
 What I have learned from experience is to let design patterns surface based on a _need rather than a want_. Like on my first introduction to Singleton, I _needed_ a way to access just one instance of a database connection. 
 
-When you start _wanting_ to use patterns for the sake of using patterns, that's when your codebase starts smelling and it ends up looking like `JSONDataStorageStrategy datastore = AbstractDependencyBuilderFactory.createSingleInstance("jsonDataStorage");`. It doesn't make any sense (not at least to me), and soon gets hard to decipher over time (I guess that's where Java gets its bad rap from).
+When you start _wanting_ to use patterns for the sake of using patterns, that's when your codebase starts smelling and it ends up looking like:
+
+{% highlight java %}
+
+JSONDataStorageStrategy datastore = AbstractDependencyBuilderFactory.createSingleInstance("jsonDataStorage");
+
+{% endhighlight %}
+
+ It doesn't make any sense (not at least to me), and soon gets hard to decipher over time (I guess that's where Java gets its bad rap from).
 
 Design Patterns isn't a silver bullet - they have their usecases, pros and pitfalls. They come with their own gotchas and they fit in some cases better than others. Just because your colleague used a facade over the data mapper doesn't mean that you'll have to. Many libraries actively incorporate some bad design techniques this way.
 
