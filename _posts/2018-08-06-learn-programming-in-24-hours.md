@@ -58,6 +58,8 @@ Programming is not something you do in a day or a week. You take your time, comm
 
 My next blog post will contain some tips and pointers. Just a few hints to get you started. It won't explain why this framework is better than the other or which language is the best, but it will give you a slight heads up on what to expect and what to avoid. I learnt from my mistakes, you probably don't want to make the same mistakes that are easily avoidable and just downright silly. I will let you make your own sets of mistakes. Tune in to my next post to _learn programming in 10 years_.
 
+Here is a link to the continuation of this post where I write about how I approached programming: [Learn Programming the Right Way](https://twodee.me/blog/2018/11/27/get-started-with-programming).
+
 
 **PS.:** I prefer refering to what I do as "Engineering". Programming is just one part of what I do, one piece of the puzzle.
 

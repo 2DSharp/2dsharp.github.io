@@ -14,13 +14,15 @@ author: Dedipyaman Das
 
 A recent train journey inspired this blog post. As promised, albeit being late, this is the blog post on how to start programming if you are a complete beginner.
 
+This is a continuation of my post: [Learn Programming in 24 Hours!](https://www.twodee.me/blog/2018/08/06/learn-programming-in-24-hours)
+<!--more-->
+
 Now here are a few gotchas about this post- 
   - I do not claim to be an expert in the field.
   - It is not a silver bullet or a magical todo list to take you from zero to hero in less than X time.
   - This is not a tutorial of any kind. This post just gives a few pointers to the absolute beginner so that they can get started a bit more easily.
   - This post doesn't guarantee success. This is a compilation of my experience.
 
-<!--more-->
 
 # Find your motivation 
 
