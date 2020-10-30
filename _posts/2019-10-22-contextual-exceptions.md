@@ -5,7 +5,7 @@ date:   2019-10-22
 excerpt_separator: <!--more-->
 comments: true
 image: assets/blog/exception.png
-categories: Opinions
+categories: Programming
 description: "Exceptions are often misunderstood and misused in development. They often have a cost added to them as we continue to implement them and correctly utilizing them is the developers responsibility from day 1."
 
 author: Dedipyaman Das

@@ -4,7 +4,7 @@ title:  "Design patterns - to do or not to?"
 date:   2019-10-19
 excerpt_separator: <!--more-->
 comments: true
-categories: Experiences
+categories: Design-Patterns Programming
 description: "When are design patterns too much? How do I stop abusing them?"
 
 author: Dedipyaman Das

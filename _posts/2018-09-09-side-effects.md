@@ -5,7 +5,7 @@ date:   2018-09-09
 excerpt_separator: <!--more-->
 comments: true
 image: assets/profile.jpg
-categories: Engineering
+categories: Social-Life
 description: What happens when being productive becomes an obsession? What if it becomes a drug? How do you deal with it? Let it grow or is it a no-no?
 author: Dedipyaman Das
 ---
