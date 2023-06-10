@@ -15,7 +15,7 @@ Software Developer, Learner
 <hr>
 <p></p>
 {:.center}
-[*Twodee or 2DSharp redirects here*] I make and break things since 2010. I write about software, my experiences with new and old technology, paradigms and architectures. 
+[*Twodee or 2DSharp redirects here*] I  break things since 2010. I write about software, my experiences with new and old technology, paradigms and architectures. 
 <ul class="frontboxcontainer">
 	<a href="/about"><li style="border-color: firebrick" class="frontbox">About</li></a>
 	<a href="/blog"><li style="border-color: #00B5FF" class="frontbox">Blog</li></a>
